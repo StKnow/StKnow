@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm StKnow.
+I'm currently studying for my master's degree at Tianjin University.
+My research is in computer graphics, specifically Speech-driven 3D Facial Animation.
+Feel free to talk to me.
