@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm StKnow.
+Hi, I'm Shengyu Zhou.
+
+My email: 3020244111@tju.edu.cn
 
 I'm currently studying for my master's degree at Tianjin University.
 
